@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mary Claire O. Capili</h1>
 <h3 align="center">Aspiring mobile developer known for UI excellence, adept in Kotlin, SQLite and Firebase. Proven track record of creating visually stunning and user-friendly interfaces that enhance overall user experience. Proficient in self-management and collaborative teamwork.</h3>
-<img align="right" alt="Coding" width="400" src="[https://tenor.com/view/codelikeagirl-gif-22766705](https://media.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif)">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cenjyumi&label=Profile%20views&color=0e75b6&style=flat" alt="cenjyumi" /> </p>
